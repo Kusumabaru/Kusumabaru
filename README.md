@@ -2,20 +2,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+wellcome!+👋;+I'm+kusumabaru+:)!;" />
 </h1>
 wellcome to github kusumabaru
-konten tiktok fengan sejarah ww2
+konten tiktok dengan sejarah ww2
 konten edukasi dan pengetahuan 
 jika kalian terhibur dengan kontenku silahkan follow agar dapat vidio menarik lainnya seputar sejarah 
 <br>
 ----------------------
 <br>
 English translation 
+<br>
 wellcome to github kusumabaru
-Welcome to GitHub Kusumabaru
-TikTok content about WW2 history
-Educational and knowledge content
-If you enjoy my content, please follow me for more interesting videos about history. 
+Welcome to GitHub Kusumabaru, TikTok content with WW2 history, educational and knowledge content. If you are entertained by my content, please follow me to get other interesting videos about history.
 <br>
 -----------------------
+<br>
+Русский перевод 
+<br>
+Добро пожаловать на GitHub Kusumabaru!
+Добро пожаловать на GitHub Kusumabaru, канал в TikTok, посвященный истории Второй мировой войны, образовательным и познавательным материалам. Если вам нравится мой контент, подпишитесь на меня, чтобы получать другие мои работы.
+<br>
+-------------------------
  <br>
   <br>
   <br>
